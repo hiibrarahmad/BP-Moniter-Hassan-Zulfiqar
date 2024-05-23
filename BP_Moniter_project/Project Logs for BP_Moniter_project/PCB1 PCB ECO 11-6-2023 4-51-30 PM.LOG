@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=3.3V Pin=J2-2
+Removed Pin From Net: NetName=sensor Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Added Component: Designator=Amplifier (Amplifier IC 8 PINS)
+Added Pin To Net: NetName=GND Pin=Amplifier -4
+Added Pin To Net: NetName=GND Pin=Amplifier -5
+Added Pin To Net: NetName=sensor Pin=Amplifier -6
+Added Pin To Net: NetName=3.3V Pin=Amplifier -7
+Added Pin To Net: NetName=NetAmplifier _1 Pin=Amplifier -1
+Added Pin To Net: NetName=NetAmplifier _1 Pin=R1-2
+Added Net: Name=NetAmplifier _1
+Added Pin To Net: NetName=NetAmplifier _2 Pin=Amplifier -2
+Added Pin To Net: NetName=NetAmplifier _2 Pin=S1-1
+Added Pin To Net: NetName=NetAmplifier _2 Pin=S1-4
+Added Net: Name=NetAmplifier _2
+Added Pin To Net: NetName=NetAmplifier _3 Pin=Amplifier -3
+Added Pin To Net: NetName=NetAmplifier _3 Pin=S1-6
+Added Net: Name=NetAmplifier _3
+Added Pin To Net: NetName=NetAmplifier _8 Pin=Amplifier -8
+Added Pin To Net: NetName=NetAmplifier _8 Pin=R1-1
+Added Net: Name=NetAmplifier _8
+Added Member To Class: ClassName=Sheet1 Member=Component Amplifier  AMplifier 8 pin ic
